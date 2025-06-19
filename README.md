@@ -50,7 +50,7 @@ Debt/
 - Debt service as % of revenue
 - Domestic vs external debt composition
 
-![Overview](Image/Overview.png)
+![Overview](https://github.com/KiruruKamau/Data/blob/main/Debt/Images/Overview.png)
 
 ---
 
@@ -59,7 +59,7 @@ Debt/
 - By holder (banks, non-banks, non-residents)
 - By tenor (short, mid, long-term)
 
-![Domestic Debt](Images/Domestic%20Debt.png)
+![Domestic Debt](https://github.com/KiruruKamau/Data/blob/main/Debt/Images/Domestic%20Debt.png)
 
 ---
 
@@ -69,7 +69,7 @@ Debt/
 - By currency (USD, EUR, Yen, Yuan)
 - By maturity (short-, medium-, long-term)
 
-![External Debt](Images/External%20Debt.png)
+![External Debt](https://github.com/KiruruKamau/Data/blob/main/Debt/Images/External%20Debt.png)
 
 ---
 
