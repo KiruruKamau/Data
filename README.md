@@ -40,7 +40,7 @@ Debt/
 - Debt service as % of revenue
 - Domestic vs external debt composition
 
-![Overview](Images/Overview.png)
+![Overview](Image/Overview.png)
 
 ---
 
