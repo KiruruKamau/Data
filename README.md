@@ -8,17 +8,27 @@ This project uses official debt data from Kenya's National Treasury to create an
 
 ## 📁 Folder Structure
 
-Debt_Project:
-  Kenya's Debt.pbix: "Power BI Dashboard file"
-  Kenya’s_Fiscal_Landscape_(2000–2023)...ipynb: "Jupyter notebook (Python version)"
-  Data:
-    Debt answers.xlsx: 
-    kenya_debt_analysis.csv: 
-  Images:
-    Overview.png: "Overview dashboard screenshot"
-    Domestic Debt.png: "Domestic debt dashboard screenshot"
-    External Debt.png: "External debt dashboard screenshot"
-    Data.png: "Data structure or sample screenshot"
+Debt/
+
+├── Kenya's Debt.pbix # Power BI Dashboard file
+
+├── Kenya’s_Fiscal_Landscape_(2000–2023)...ipynb # Jupyter notebook (Python version)
+
+├── Data/
+
+│ ├── Debt answers.xlsx 
+
+│ └── kenya_debt_analysis.csv
+
+├── Images/
+
+│ ├── Overview.png
+
+│ ├── Domestic Debt.png
+
+│ ├── External Debt.png
+
+│ └── Data.png
 
 
 ---
